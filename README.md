@@ -24,13 +24,22 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop
+![](./screenshots/Desktop.png)
 
+Desktop Active
+![](./screenshots/Desktop%20active.png)
+
+Mobile
+![](./screenshots/mobile.png)
+
+Mobile Active
+![](./screenshots/mobile-active.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Y-ashbhatt/Article-preview-component-master)
+- Live Site URL: [Live site URL ](https://y-ashbhatt.github.io/Article-preview-component-master/)
 
 ## My process
 
@@ -45,7 +54,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+- Frontend Mentor - [@Y-ashbhatt](https://www.frontendmentor.io/profile/Y-ashbhatt)
+- Twitter - [@yash_bhatt01](https://x.com/yash_bhatt01)
 
